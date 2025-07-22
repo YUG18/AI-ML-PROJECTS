@@ -26,5 +26,5 @@ Built using **Python + Streamlit**, it gives match scores, shows matched and mis
 
 ```bash
 pip install pandas streamlit PyMuPDF
-streamlit run resume_matcher.py
+streamlit run ResumeAnalyzerAndJobMatcher.py
 
